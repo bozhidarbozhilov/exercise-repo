@@ -1,5 +1,15 @@
 # exercise-repo
 GitHub Exercises
 
-Conflict resolved.
+Changing readme.
+many times.
+many times.
+many times.
+many times.
+many times.
+many times.
+many times.
+many times.
+many times.
+many times.many times.
 
